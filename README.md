@@ -3,11 +3,13 @@ A simple Xamarin library for Color Picker, very easy to integrate and looking ea
 
 
 
-A simple view for IOS
+A simple view for # IOS
 
 ![alt text](https://github.com/datanapps/XamarinColorPicker/blob/master/screens/ios/ios.gif)
 
 
 
-A simple view for Android
+A simple view for # Android
+
+
 ![alt text](https://github.com/datanapps/XamarinColorPicker/blob/master/screens/android/android.gif)
